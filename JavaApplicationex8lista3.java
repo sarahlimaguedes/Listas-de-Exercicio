@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class JavaApplicationex8lista3 {
 
     public static void main(String[] args) {
-        // Declarando o Scanner para imprimir os resultados//
+        // Declarando o Scanner para receber os resultados//
         Scanner sc = new Scanner(System.in);
         // Imprimindo a variável n//
         System.out.println(" Digite um numero: ");
